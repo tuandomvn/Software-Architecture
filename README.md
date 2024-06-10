@@ -39,4 +39,9 @@ Design techniques: Design Thinking and Design Sprint, to defining a solution, te
 		- Prototype: develope mock-ups to confirm
 		- Test: to understand the prototype that is most connected to the real needs of the users.
 	- The prototype process will help stakeholders to understand the final product and, at the same time, engage the team to deliver the best solution
-- Design Sprint
+- Design Sprint: focused on solving critical business questions in 5 days Sprint, presented by Google, quickly test and learn from an idea
+	- Monday: identify the target of the sprint and map the challenge to achieve it.
+	- Tuesday: sketching solutions that may solve it, find customers to test the new solution
+	- Wednesday: decide on the solutions that have the greatest chance of solving the problem
+	- Thursday: prototype the idea planned on the storyboard.
+	- Friday: complete the prototype, the team presents it to customers, learning by getting information from their reactions
