@@ -1,11 +1,16 @@
 # Chapter 1: Understanding the Importance of Software Architecture
 
 *Software Architect responsibility*:
+
 -Defining a software development process
+
 -Gather the software requirements
+
 **Gather the right information to design high-quality software**
+
 *Purpose:* do not write requirements just for the user, write them for you and your team too
 Time invested in requirements analysis is time invested in better code later.
+
 *Requirements engineering process*
 - Elicitation: detecting exact user needs, using common techniques:
 		- The power of imagination
